@@ -23,6 +23,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F4AC021727622CE800C4E76A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4AC02192762311E00C4E76A /* SimpleArraySum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleArraySum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4AC021A276232CE00C4E76A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4AC021B276234D100C4E76A /* CompareTheTriplets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CompareTheTriplets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4DD9985275DA42200A840FB /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4DD9988275DA42200A840FB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F4DD9991275DA4EE00A840FB /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -42,8 +46,6 @@
 		F4DD997C275DA42200A840FB = {
 			isa = PBXGroup;
 			children = (
-				F4DD9990275DA47900A840FB /* Algorithms */,
-				F4DD998F275DA43B00A840FB /* 30DaysOfCode */,
 				F4DD9987275DA42200A840FB /* HackerRank */,
 				F4DD9986275DA42200A840FB /* Products */,
 			);
@@ -60,6 +62,8 @@
 		F4DD9987275DA42200A840FB /* HackerRank */ = {
 			isa = PBXGroup;
 			children = (
+				F4DD998F275DA43B00A840FB /* 30DaysOfCode */,
+				F4DD9990275DA47900A840FB /* Algorithms */,
 				F4DD9988275DA42200A840FB /* main.swift */,
 				F4DD9991275DA4EE00A840FB /* MyPlayground.playground */,
 			);
@@ -76,6 +80,10 @@
 		F4DD9990275DA47900A840FB /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				F4AC021727622CE800C4E76A /* SolveMeFirst.playground */,
+				F4AC02192762311E00C4E76A /* SimpleArraySum.playground */,
+				F4AC021A276232CE00C4E76A /* AVeryBigSum.playground */,
+				F4AC021B276234D100C4E76A /* CompareTheTriplets.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
