@@ -1,5 +1,6 @@
 import Cocoa
 
+// 다시 풀기
 func compareTriplets(a: [Int], b: [Int]) -> [Int] {
     var aPoint = 0
     var bPoint = 0

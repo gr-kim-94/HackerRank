@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F439D8172764F024004931FB /* HelloWorld.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HelloWorld.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021727622CE800C4E76A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC02192762311E00C4E76A /* SimpleArraySum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleArraySum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021A276232CE00C4E76A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -73,6 +74,7 @@
 		F4DD998F275DA43B00A840FB /* 30DaysOfCode */ = {
 			isa = PBXGroup;
 			children = (
+				F439D8172764F024004931FB /* HelloWorld.playground */,
 			);
 			path = 30DaysOfCode;
 			sourceTree = "<group>";
