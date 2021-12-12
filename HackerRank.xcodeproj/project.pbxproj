@@ -27,6 +27,8 @@
 		F439D8182764F17C004931FB /* DiagonalDifference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DiagonalDifference.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D819276636F9004931FB /* PlusMinus.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PlusMinus.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D81A27663B11004931FB /* Staircase.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Staircase.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F439D81B27663F40004931FB /* MiniMaxSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiniMaxSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F439D81C27664493004931FB /* BirthdayCakeCandles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BirthdayCakeCandles.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021727622CE800C4E76A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC02192762311E00C4E76A /* SimpleArraySum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleArraySum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021A276232CE00C4E76A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -92,6 +94,8 @@
 				F439D8182764F17C004931FB /* DiagonalDifference.playground */,
 				F439D819276636F9004931FB /* PlusMinus.playground */,
 				F439D81A27663B11004931FB /* Staircase.playground */,
+				F439D81B27663F40004931FB /* MiniMaxSum.playground */,
+				F439D81C27664493004931FB /* BirthdayCakeCandles.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
