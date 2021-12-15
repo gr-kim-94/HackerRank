@@ -31,6 +31,7 @@
 		F439D81B27663F40004931FB /* MiniMaxSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiniMaxSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D81C27664493004931FB /* BirthdayCakeCandles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BirthdayCakeCandles.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D81D276645FE004931FB /* TimeConversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeConversion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F46A3254276A360A00DD9316 /* GradingStudents.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GradingStudents.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021727622CE800C4E76A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC02192762311E00C4E76A /* SimpleArraySum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleArraySum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021A276232CE00C4E76A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -99,6 +100,7 @@
 				F439D81B27663F40004931FB /* MiniMaxSum.playground */,
 				F439D81C27664493004931FB /* BirthdayCakeCandles.playground */,
 				F439D81D276645FE004931FB /* TimeConversion.playground */,
+				F46A3254276A360A00DD9316 /* GradingStudents.playground */,
 				F41C8F8E2767898900DC2DAC /* SeparateTheNumbers.playground */,
 			);
 			path = Algorithms;

@@ -11,9 +11,23 @@ import Cocoa
  s = 101103 = {10, 11, 03} -> NO
  */
 func separateNumbers(s: String) -> Void {
+//    let arr = Array(s)
+//    for (index, value) in arr.enumerated() {
+//        if index == arr.endIndex {
+//        } else {
+//            let nextValue = arr[index + 1]
+//            print(nextValue)
+//            s
+//            if value < nextValue {
+//
+//            }
+//        }
+//    }
 }
 
 separateNumbers(s: "12345")
 separateNumbers(s: "91011")
 separateNumbers(s: "10203")
 separateNumbers(s: "101103")
+
+separateNumbers(s: "121314")
