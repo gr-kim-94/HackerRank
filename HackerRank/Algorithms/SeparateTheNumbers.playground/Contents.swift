@@ -10,19 +10,30 @@ import Cocoa
  s = 10203 = {1, 02, 03} -> NO
  s = 101103 = {10, 11, 03} -> NO
  */
+// 다시 풀기
 func separateNumbers(s: String) -> Void {
-//    let arr = Array(s)
-//    for (index, value) in arr.enumerated() {
-//        if index == arr.endIndex {
-//        } else {
-//            let nextValue = arr[index + 1]
-//            print(nextValue)
-//            s
-//            if value < nextValue {
-//
-//            }
-//        }
-//    }
+    var isSeparate = false
+    var first:String = ""
+    for (index, _) in s.enumerated() {
+        let endIndex = s.index(s.startIndex, offsetBy: index + 1)
+        first = String(s[s.startIndex..<endIndex])
+        print(first)
+        
+        let firstNumber = Int(first) ?? 0
+        print(firstNumber)
+        
+        var nextNumber = firstNumber + 1
+        var lastCount = first.count + String(nextNumber).count
+        
+        while lastCount < s.count {
+            let lastStartIndex = s.index(s.startIndex, offsetBy: index + 1)
+        }
+        
+        if isSeparate {
+            break
+        }
+        
+    }
 }
 
 separateNumbers(s: "12345")
