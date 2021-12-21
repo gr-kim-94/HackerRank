@@ -10,7 +10,7 @@ import Cocoa
  s = 10203 = {1, 02, 03} -> NO
  s = 101103 = {10, 11, 03} -> NO
  */
-// 다시 풀기
+// 진행중
 func separateNumbers(s: String) -> Void {
     var isSeparate = false
     var first:String = ""
