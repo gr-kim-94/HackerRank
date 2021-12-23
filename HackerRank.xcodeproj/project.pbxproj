@@ -34,6 +34,7 @@
 		F46A3254276A360A00DD9316 /* GradingStudents.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GradingStudents.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F486D2DC27720E9C003A30D5 /* AppleAndOrange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AppleAndOrange.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F486D2DD27721D6E003A30D5 /* NumberLineJumps.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NumberLineJumps.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F48802B22772B7E700960074 /* BetweenTwoSets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BetweenTwoSets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021727622CE800C4E76A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC02192762311E00C4E76A /* SimpleArraySum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleArraySum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021A276232CE00C4E76A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -106,6 +107,7 @@
 				F41C8F8E2767898900DC2DAC /* SeparateTheNumbers.playground */,
 				F486D2DC27720E9C003A30D5 /* AppleAndOrange.playground */,
 				F486D2DD27721D6E003A30D5 /* NumberLineJumps.playground */,
+				F48802B22772B7E700960074 /* BetweenTwoSets.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
