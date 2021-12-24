@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		C81CEA212775453C00277DB7 /* BreakingTheRecords.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BreakingTheRecords.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C81CEA2227755D7100277DB7 /* SubarrayDivision.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SubarrayDivision.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F41C8F8E2767898900DC2DAC /* SeparateTheNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SeparateTheNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D8172764F024004931FB /* HelloWorld.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HelloWorld.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D8182764F17C004931FB /* DiagonalDifference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DiagonalDifference.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -110,6 +111,7 @@
 				F486D2DD27721D6E003A30D5 /* NumberLineJumps.playground */,
 				F48802B22772B7E700960074 /* BetweenTwoSets.playground */,
 				C81CEA212775453C00277DB7 /* BreakingTheRecords.playground */,
+				C81CEA2227755D7100277DB7 /* SubarrayDivision.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
