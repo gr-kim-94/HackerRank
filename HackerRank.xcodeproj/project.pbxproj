@@ -33,6 +33,7 @@
 		F439D81B27663F40004931FB /* MiniMaxSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiniMaxSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D81C27664493004931FB /* BirthdayCakeCandles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BirthdayCakeCandles.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D81D276645FE004931FB /* TimeConversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeConversion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F44C3EC4277B672F003A36BE /* DivisibleSumPairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DivisibleSumPairs.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F46A3254276A360A00DD9316 /* GradingStudents.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GradingStudents.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F486D2DC27720E9C003A30D5 /* AppleAndOrange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AppleAndOrange.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F486D2DD27721D6E003A30D5 /* NumberLineJumps.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NumberLineJumps.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -112,6 +113,7 @@
 				F48802B22772B7E700960074 /* BetweenTwoSets.playground */,
 				C81CEA212775453C00277DB7 /* BreakingTheRecords.playground */,
 				C81CEA2227755D7100277DB7 /* SubarrayDivision.playground */,
+				F44C3EC4277B672F003A36BE /* DivisibleSumPairs.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
