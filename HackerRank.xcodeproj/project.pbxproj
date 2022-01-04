@@ -26,6 +26,7 @@
 		C81CEA212775453C00277DB7 /* BreakingTheRecords.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BreakingTheRecords.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C81CEA2227755D7100277DB7 /* SubarrayDivision.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SubarrayDivision.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F41C8F8E2767898900DC2DAC /* SeparateTheNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SeparateTheNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4246B0A278474E1000AD9D8 /* DayOfTheProgrammer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DayOfTheProgrammer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D8172764F024004931FB /* HelloWorld.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HelloWorld.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D8182764F17C004931FB /* DiagonalDifference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DiagonalDifference.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D819276636F9004931FB /* PlusMinus.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PlusMinus.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -116,6 +117,7 @@
 				C81CEA2227755D7100277DB7 /* SubarrayDivision.playground */,
 				F44C3EC4277B672F003A36BE /* DivisibleSumPairs.playground */,
 				F44C3EC5277B6F7E003A36BE /* MigratoryBirds.playground */,
+				F4246B0A278474E1000AD9D8 /* DayOfTheProgrammer.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
