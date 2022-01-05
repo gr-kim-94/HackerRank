@@ -43,6 +43,17 @@ func dayOfProgrammer(year: Int) -> String {
     }
 }
 
+// dayOfProgrammer Time Out -> dayOfProgrammer2 Success
+func dayOfProgrammer2(year: Int) -> String {
+    if (year > 1918 && (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0))) || (year < 1918 && year % 4 == 0) {
+        return "12.09.\(year)"
+    } else if year == 1918 {
+        return "26.09.\(year)"
+    } else {
+        return "13.09.\(year)"
+    }
+}
+
 dayOfProgrammer(year: 2016)
 dayOfProgrammer(year: 2017)
 dayOfProgrammer(year: 2018)
