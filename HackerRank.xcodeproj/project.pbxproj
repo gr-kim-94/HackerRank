@@ -40,6 +40,8 @@
 		F44C3EC5277B6F7E003A36BE /* MigratoryBirds.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MigratoryBirds.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F46A3254276A360A00DD9316 /* GradingStudents.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GradingStudents.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F47B30CF278881F200B6EA3E /* BillDivision.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BillDivision.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F47B30D0278885F600B6EA3E /* SalesByMatch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SalesByMatch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F47B30D12788950500B6EA3E /* DrawingBook.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DrawingBook.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F486D2DC27720E9C003A30D5 /* AppleAndOrange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AppleAndOrange.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F486D2DD27721D6E003A30D5 /* NumberLineJumps.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NumberLineJumps.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F48802B22772B7E700960074 /* BetweenTwoSets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BetweenTwoSets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -132,6 +134,8 @@
 				F44C3EC5277B6F7E003A36BE /* MigratoryBirds.playground */,
 				F4246B0A278474E1000AD9D8 /* DayOfTheProgrammer.playground */,
 				F47B30CF278881F200B6EA3E /* BillDivision.playground */,
+				F47B30D0278885F600B6EA3E /* SalesByMatch.playground */,
+				F47B30D12788950500B6EA3E /* DrawingBook.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
