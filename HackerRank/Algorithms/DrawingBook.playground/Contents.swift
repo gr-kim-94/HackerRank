@@ -19,7 +19,7 @@ func pageCount2(n: Int, p: Int) -> Int {
         return lastPage
     }
     
-    return p/2pageCount(n: 5, p: 4)
+    return p/2
 }
 
 pageCount(n: 5, p: 3)

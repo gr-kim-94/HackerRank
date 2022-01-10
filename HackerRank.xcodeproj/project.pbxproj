@@ -49,6 +49,7 @@
 		F4AC02192762311E00C4E76A /* SimpleArraySum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleArraySum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021A276232CE00C4E76A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021B276234D100C4E76A /* CompareTheTriplets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CompareTheTriplets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4AC97C7278C645B0090E60D /* CountingValleys.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CountingValleys.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4DD9985275DA42200A840FB /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4DD9988275DA42200A840FB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F4DD9991275DA4EE00A840FB /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -136,6 +137,7 @@
 				F47B30CF278881F200B6EA3E /* BillDivision.playground */,
 				F47B30D0278885F600B6EA3E /* SalesByMatch.playground */,
 				F47B30D12788950500B6EA3E /* DrawingBook.playground */,
+				F4AC97C7278C645B0090E60D /* CountingValleys.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
