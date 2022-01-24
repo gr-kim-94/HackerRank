@@ -45,6 +45,9 @@
 		F486D2DC27720E9C003A30D5 /* AppleAndOrange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AppleAndOrange.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F486D2DD27721D6E003A30D5 /* NumberLineJumps.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NumberLineJumps.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F48802B22772B7E700960074 /* BetweenTwoSets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BetweenTwoSets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4A815FB2799A19E006F7742 /* FormingAMagicSquare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FormingAMagicSquare.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4A815FC2799A4A2006F7742 /* DynamicArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DynamicArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4A815FD2799A750006F7742 /* LeftRotation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LeftRotation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021727622CE800C4E76A /* SolveMeFirst.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SolveMeFirst.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC02192762311E00C4E76A /* SimpleArraySum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleArraySum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4AC021A276232CE00C4E76A /* AVeryBigSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AVeryBigSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -73,6 +76,8 @@
 			children = (
 				F4246B0B278483F7000AD9D8 /* ArraysDS.playground */,
 				F4246B0C2784AA8D000AD9D8 /* 2DArrayDS.playground */,
+				F4A815FC2799A4A2006F7742 /* DynamicArray.playground */,
+				F4A815FD2799A750006F7742 /* LeftRotation.playground */,
 			);
 			path = DataStructures;
 			sourceTree = "<group>";
@@ -142,6 +147,7 @@
 				F4AC97C7278C645B0090E60D /* CountingValleys.playground */,
 				F4AC97C8278C6E840090E60D /* ElectronicsShop.playground */,
 				F4AC97C9278C70B20090E60D /* CatsAndAMouse.playground */,
+				F4A815FB2799A19E006F7742 /* FormingAMagicSquare.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
