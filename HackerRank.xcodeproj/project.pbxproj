@@ -36,6 +36,7 @@
 		F439D81B27663F40004931FB /* MiniMaxSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiniMaxSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D81C27664493004931FB /* BirthdayCakeCandles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BirthdayCakeCandles.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F439D81D276645FE004931FB /* TimeConversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeConversion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F43D768A27A9B35500673892 /* PickingNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PickingNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F44C3EC4277B672F003A36BE /* DivisibleSumPairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DivisibleSumPairs.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F44C3EC5277B6F7E003A36BE /* MigratoryBirds.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MigratoryBirds.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F46A3254276A360A00DD9316 /* GradingStudents.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GradingStudents.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -148,6 +149,7 @@
 				F4AC97C8278C6E840090E60D /* ElectronicsShop.playground */,
 				F4AC97C9278C70B20090E60D /* CatsAndAMouse.playground */,
 				F4A815FB2799A19E006F7742 /* FormingAMagicSquare.playground */,
+				F43D768A27A9B35500673892 /* PickingNumbers.playground */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
