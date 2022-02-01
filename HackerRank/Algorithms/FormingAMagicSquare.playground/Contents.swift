@@ -38,7 +38,7 @@ import Cocoa
 //   5
 // 6   2
 func formingMagicSquare(s: [[Int]]) -> Int {
-    var minCost = 0
+    var minCost = 81
     let magicMat = [
         [[8, 1, 6], [3, 5, 7], [4, 9, 2]],
         [[6, 1, 8], [7, 5, 3], [2, 9, 4]],
